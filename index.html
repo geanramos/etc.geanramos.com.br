@@ -2,16 +2,17 @@
 layout: default
 title: Emails enviados
 ---
+<!-- Inico paragraph_block block-postlist index.html-->
 <table class="paragraph_block block-postlist" width="100%" cellpadding="10" cellspacing="0" role="presentation">
-  <tr>
-    <td class="pad">
-      <div style="color:#262626;direction:ltr;font-family:'Roboto', Tahoma, Arial, Helvetica, sans-serif;font-size:14px;">
-        <ul>
-          {% for post in site.posts %}
-            <li><a href="{{ post.url }}" style="color: #00f;">{{ post.title }}</a></li>
-          {% endfor %}
-        </ul>
-      </div>
-    </td>
-  </tr>
+<tr>
+<td class="pad">
+<div style="color: #262626; direction: ltr; font-family: 'Roboto', Tahoma, Arial, Helvetica, sans-serif; font-size: 14px;">
+<ul>
+{% for post in site.posts %}
+<li><a href="{{ post.url }}" style="color: #00f;">{{ post.title }}</a></li>
+{% endfor %}
+</ul>
+</div>
+</td>
+</tr>
 </table>
