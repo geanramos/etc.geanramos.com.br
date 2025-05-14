@@ -4,11 +4,12 @@ title: "Candidatura - Analista de Sistemas / CTC"
 date: 2025-05-12
 nome: "Pedro da Paz"
 nomeid: "pedropaz"
+avatar: "joao"
 tags: [pedropaz]
 email: "pedropaz@uol.com.br"
-fone: "(91) 98251-0830"
+fone: "(91) 98888-0000"
 gdrive: "1bAjAuW2h0jGn-HbYVq2orkwk7-ZM8QIYbwjnE_DXQBk"
-corBT: "#00f"
+corBT: "#f03"
 ---
 Olá, equipe **CTC - Castanhal**!  
   
