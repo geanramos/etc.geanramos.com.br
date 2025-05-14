@@ -131,7 +131,13 @@
 <!-- Inicio conteudo _include/content.html-->
 													<table class="paragraph_block block-3" width="100%" border="0" cellpadding="10" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; word-break: break-word;">
 														<tr>
-															{% include conteudo.html %}
+															<td class="pad">
+																<div style="color:#262626;direction:ltr;font-family:'Roboto', Tahoma, Arial, Helvetica, sans-serif;font-size:14px;font-weight:400;letter-spacing:0px;line-height:1.2;text-align:left;mso-line-height-alt:17px;">
+<!-- Inicio texto do e-mail-->
+																	{{ content }}
+<!-- Fim texto do e-mail-->
+																</div>
+															</td>
 														</tr>
 													</table>
 <!-- Fim conteudo _include/content.html-->
