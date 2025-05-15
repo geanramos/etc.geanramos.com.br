@@ -11,8 +11,8 @@ gdrive: "url-nextjob"
 corBT: "#00f"
 ---
 Oi, [Nome]!
-
-![enter image description here](https://i.imgur.com/B04Oa4C.png%20https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXk4YWE5OG9sMHI5cmZndGJjY3p6NGJkN2l5N3V6bXY2eDQxZWw5NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hNEMVXZTLbq6h1hnlc/giphy.gif)
+<!--https://i.imgur.com/B04Oa4C.png-->
+![enter image description here](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXk4YWE5OG9sMHI5cmZndGJjY3p6NGJkN2l5N3V6bXY2eDQxZWw5NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hNEMVXZTLbq6h1hnlc/giphy.gif)
 
 Passando rapidinho para avisar que agora estou com um e-mail novinho em folha! 🎉
 
