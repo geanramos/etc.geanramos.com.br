@@ -41,6 +41,7 @@ Eu achei a fórmula mágica para isso e quero compartilhar com você: um curso G
 Acesso imediato, sem aquelas enrolações de "compra agora e ganhe o bônus!" 🤑
 
 [![enter image description here](https://u1m.com.br/send-ad/)](https://gean.me/sendadmktd)
+
 Já pensou em sair do "como vai o mercado de trabalho?" para "como vou investir meu tempo em casa e faturar alto"? Vem ver no banner abaixo como isso é possível. 🚀
 
 > O cara que criou esse curso, o Alex Vargas, tem mais de 17 anos de experiência no jogo e já ajudou **milhares** a fazer sua grana. Então... se ele conseguiu, você também consegue, né? 😜
