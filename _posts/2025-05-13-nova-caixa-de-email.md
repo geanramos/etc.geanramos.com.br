@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Nova Caixa de E-mail! Vem Me Encontrar por Aqui!"
+title: "Passando rapidinho para avisar"
 date: 2025-05-13
 tags: [nextjob]
 corBT: "#00f"
