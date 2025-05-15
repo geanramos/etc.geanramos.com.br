@@ -1,0 +1,21 @@
+---
+layout: post
+title: "Candidatura - Analista de Sistemas / CTC"
+date: 2025-05-12
+nome: "Pedro da Paz"
+nomeid: "pedropaz"
+tags: [pedropaz]
+email: "pedropaz@uol.com.br"
+fone: "(91) 98251-0830"
+gdrive: "url-cv"
+corBT: "#00f"
+---
+
+
+---
+layout: page
+title: "Nova Caixa de E-mail! Vem Me Encontrar por Aqui!"
+date: 2025-05-13
+tags: [nextjob]
+corBT: "#00f"
+---

@@ -8,7 +8,7 @@ avatar: "joao"
 tags: [pedropaz]
 email: "pedropaz@uol.com.br"
 fone: "(91) 98888-0000"
-gdrive: "1bAjAuW2h0jGn-HbYVq2orkwk7-ZM8QIYbwjnE_DXQBk"
+gdrive: "https://docs.google.com/document/d/1bAjAuW2h0jGn-HbYVq2orkwk7-ZM8QIYbwjnE_DXQBk/export?format=pdf"
 corBT: "#f03"
 ---
 Olá, equipe **CTC - Castanhal**!  
